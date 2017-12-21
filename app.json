@@ -1,5 +1,7 @@
 {
   "expo": {
     "sdkVersion": "23.0.0"
-  }
+  },
+  "name": "imdb_react",
+  "displayName": "IMDBReact"
 }

@@ -1,0 +1,4 @@
+#Thu Dec 21 13:47:33 PST 2017
+base.0=/home/andy/Coding/imdb-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/andy/Coding/imdb-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

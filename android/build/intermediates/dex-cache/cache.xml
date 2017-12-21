@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_99f3863812aa27a59235ddcb27d9e6df61bd6a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d8ba472d936919fb73d6110d46685b64cee78208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_04098181ff742659920cdb4f571a7c7acd57709d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_83c1e8e87cc7459d84cac6aa227ed9be02f995be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_a4a2077758f9aaa109a234e2451be343fffba15c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a963c8f4c9049d76b8044aef3b4954a648acc793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2bcf4590db4ba922630e0e5fae57eace4ae32c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1bfc4376a7ff8dc0243ff988110050df93173bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c9090d182d2c85f8473f51e0d577ea8bf2768beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_abbb6c231bba82916f2216c09b182a580dfee861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e534c7475f8f6f772edf173aab709029cb2415fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1cb0bf5958336c22ba31408cae5c39bd1cee0b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_cf5b33491c6d08c0ca68a4b9e8437beb4b776126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_ab4523c1d1dd8fc3cfe74d08ee4f91b882e25500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_39f4bf487a0463e43dc7f59e9e5a2ca136ee3f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6d022f77f7e8030052efcec8b192361057268bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7b6ecf4d7eb5f93ea4febc666f1058a27f8b719b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_cd5fc610e33c9e4d5ab9d48a1641e2584d4af231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_161d0aa27cbc0cd800ba6dbeb6764a6da9fc75bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ae7808f0ea0d432358299307a52cfe5094d03ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andy/Coding/imdb-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/andy/Coding/imdb-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5438943e7ae6acdf5c0b2f8d3bb569ea5ddf31d9.jar" />
+    </item>
+
+</items>
